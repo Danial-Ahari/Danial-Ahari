@@ -1,4 +1,15 @@
-### Hi there 👋
+### Current Projects
+
+#### RCEU 2023
+(These repositories are currently private, and this is for organization's sake for me.)
+
+- [CD Reader and Corrector](https://github.com/Danial-Ahari/CD-Read-and-Error-Correction)
+- [CD Visualizer](https://github.com/Danial-Ahari/CD-Visualizer)
+- [Standalone BIN Image Corrector](https://github.com/Danial-Ahari/Standalone-BIN-Image-Corrector)
+
+#### Personal Website
+
+- [GitHub Pages](https://github.com/Danial-Ahari/Danial-Ahari.github.io)
 
 <!--
 **Danial-Ahari/Danial-Ahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
