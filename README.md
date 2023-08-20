@@ -1,7 +1,6 @@
 ### Current Projects
 
 #### RCEU 2023
-(These repositories are currently private, and this is for organization's sake for me.)
 
 - [CD Reader and Corrector](https://github.com/Danial-Ahari/CD-Read-and-Error-Correction)
 - [CD Visualizer](https://github.com/Danial-Ahari/CD-Visualizer)
