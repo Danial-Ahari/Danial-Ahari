@@ -1,5 +1,8 @@
 ### Current Projects
 
+#### Archives and Special Collections
+- [Archival Image Generator](https://github.com/Danial-Ahari/archival-image-generator)
+
 #### RCEU 2023
 
 - [CD Reader and Corrector](https://github.com/Danial-Ahari/CD-Read-and-Error-Correction)
