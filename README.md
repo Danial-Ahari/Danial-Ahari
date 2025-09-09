@@ -13,6 +13,10 @@
 
 - [GitHub Pages](https://github.com/Danial-Ahari/Danial-Ahari.github.io)
 
+#### Little Projects
+
+- [BLUE-Ed](https://github.com/Danial-Ahari/BLUE-Ed)
+
 <!--
 **Danial-Ahari/Danial-Ahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
