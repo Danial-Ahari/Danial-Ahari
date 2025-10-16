@@ -1,33 +1,7 @@
-### Current Projects
+### See me at:
 
-#### Archives and Special Collections
-- [Archival Image Generator](https://github.com/Danial-Ahari/archival-image-generator)
+#### Personal Forgejo Instance
 
-#### RCEU 2023
+I'm moving to a local solution for a lot of my personal projects. This GitHub is for shared projects or things like that. So here, you can find:
 
-- [CD Reader and Corrector](https://github.com/Danial-Ahari/CD-Read-and-Error-Correction)
-- [CD Visualizer](https://github.com/Danial-Ahari/CD-Visualizer)
-- [Standalone BIN Image Corrector](https://github.com/Danial-Ahari/Standalone-BIN-Image-Corrector)
-
-#### Personal Website
-
-- [GitHub Pages](https://github.com/Danial-Ahari/Danial-Ahari.github.io)
-
-#### Little Projects
-
-- [BLUE-Ed](https://github.com/Danial-Ahari/BLUE-Ed)
-
-<!--
-**Danial-Ahari/Danial-Ahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[An image formatter for the archives I used to work for](https://github.com/Danial-Ahari/archival-image-generator)
